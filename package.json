@@ -2,10 +2,9 @@
   "name": "movies-series-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yaser-alazem.github.io/movies-series-info",
+  "homepage": "https://synTaxed.github.io/test",
   "dependencies": {
     "axios": "^0.18.1",
-    "gh-pages": "^2.0.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-emoji-render": "^1.0.0",
@@ -31,5 +30,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^2.1.0"
+  }
 }
